@@ -1,0 +1,56 @@
+{
+  "output": "renders/inis.gif",
+  "sefer": {
+    "son_saniye": 4.0
+  },
+  "hat": {
+    "merkez": [
+      0,
+      0
+    ],
+    "alan": 200,
+    "krater": 12,
+    "tohum": 5,
+    "segman": 200
+  },
+  "zemin": {
+    "color": [
+      0.155,
+      0.15,
+      0.14
+    ]
+  },
+  "dunya": {
+    "konum": [
+      -282,
+      260,
+      185
+    ],
+    "yaricap": 48
+  },
+  "sun": {
+    "elevation_deg": 18,
+    "azimuth_deg": 150,
+    "strength": 6.5
+  },
+  "camera": {
+    "position": [
+      12,
+      -13,
+      3.2
+    ],
+    "look_at": [
+      -1,
+      0,
+      9
+    ],
+    "lens": 40
+  },
+  "render": {
+    "width": 1280,
+    "height": 720,
+    "samples": 48,
+    "exposure": 0.45,
+    "look": "Medium High Contrast"
+  }
+}

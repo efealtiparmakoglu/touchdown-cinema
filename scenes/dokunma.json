@@ -1,0 +1,57 @@
+{
+  "output": "renders/dokunma.png",
+  "sefer": {
+    "son_saniye": 6.0,
+    "an": 6.4
+  },
+  "hat": {
+    "merkez": [
+      0,
+      0
+    ],
+    "alan": 200,
+    "krater": 12,
+    "tohum": 5,
+    "segman": 200
+  },
+  "zemin": {
+    "color": [
+      0.155,
+      0.15,
+      0.14
+    ]
+  },
+  "dunya": {
+    "konum": [
+      -282,
+      260,
+      185
+    ],
+    "yaricap": 48
+  },
+  "sun": {
+    "elevation_deg": 18,
+    "azimuth_deg": 150,
+    "strength": 7.0
+  },
+  "camera": {
+    "position": [
+      11,
+      -12,
+      3.0
+    ],
+    "look_at": [
+      -2,
+      0,
+      8
+    ],
+    "lens": 38
+  },
+  "render": {
+    "width": 1600,
+    "height": 900,
+    "samples": 192,
+    "exposure": 0.45,
+    "look": "Medium High Contrast"
+  }
+}
